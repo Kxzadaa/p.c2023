@@ -1,36 +1,24 @@
-<!DOCTYPE html>
-<html lang="en">
+!DOCTYPE html>
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>título estrutural que aparece na aba do navegador</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 
-<body>
-
-    <h1> história da seleção brasileira</h1>
-
-<p>A Seleção Brasileira de Futebol, administrada pela CBF, uma associação privada, representa o Brasil nas competições de futebol da CONMEBOL e FIFA.</p>
-<p>Formada em 1915 e considerada um dos maiores símbolos do país, é chamada de "Seleção", "Seleção Canarinho", "Verde-Amarela", além de outras alcunhas. É a seleção mais bem-sucedida da história do futebol mundial,[7][8][9] sendo a recordista em conquistas em Copas do Mundo, com cinco títulos invictos (1958, 1962, 1970, 1994 e 2002) e quatro títulos da Copa das Confederações FIFA (1997, 2005, 2009 e 2013).
-    <p>Dentre outras conquistas importantes, a seleção detém nove títulos da Copa América (1919, 1922, 1949, 1989, 1997, 1999, 2004, 2007 e 2019). Conquistou ainda quatro Copa das Confederações FIFA (1997, 2005, 2009 e 2013), competição na qual também é a maior vencedora da história.Nos Jogos Olímpicos de 2016, sediados no Rio de Janeiro, conquistou pela primeira vez a medalha de ouro, vencendo a seleção alemã nos pênaltis. O feito se repetiu em 2021, no Japão quanto conquistou a medalha de ouro no futebol pela segunda vez.
-    <p>A Seleção Brasileira é muito lembrada quando se fala de futebol arte já que, desde 1958 engrandece o futebol mundial com grandes nomes que com a amarelinha impressionaram e fizeram história. Pelé lidera a longa lista de craques brasileiros, considerado um dos maiores jogadores de todos os tempos.[15] Contemporâneo de Pelé, Garrincha, o eterno "anjo das pernas tortas" de dribles desconcertantes, abrilhantou os gramados com seu futebol. Outros grandes que encantaram não só o Brasil mas o mundo foram Didi, Nilton Santos, Djalma Santos, Rivellino, Gérson, Jairzinho, Carlos Alberto, Tostão, Júnior, Zico, Sócrates, Roberto Dinamite, Falcão, Taffarel, Romário, Bebeto, Cafu, Roberto Carlos, Ronaldo, Rivaldo, Ronaldinho, Kaká, Robinho, Adriano, e atualmente Richarlison, Neymar e Vini Jr.
+<body> 
     
-    </p>
-<P>Muito se discute sobre quem introduziu a prática do futebol no Brasil. As opiniões e pesquisas são diversificadas e muito controvérsias, que vão desde a vinda das empresas inglesas ao país por volta de 1890, passando pela chegada de navios estrangeiros, até o futebol praticado em colégios e seminários no final do século XIX.[17][18] A história oficial conta que a chegada do "football" ao país ocorreu graças a Charles William Miller, um brasileiro filho de ingleses, que desembarcou no porto de Santos em 1894 trazendo consigo duas bolas de futebol, após ter concluído seus estudos em Southampton.[nota 1]
-</P>
-<p>ntre 1903 e 1913, o futebol já se encontrava em franca ascensão, principalmente nas cidades de São Paulo e do Rio de Janeiro, e diversos clubes e combinados estrangeiros de Argentina, Chile, Uruguai, Inglaterra, Itália e Portugal vieram ao Brasil disputar partidas amistosas contra combinados estaduais paulistas, cariocas e até baiano, que muitas vezes contavam com jogadores estrangeiros que atuavam nos times e mesmo alguns combinados nacionais, estes formados unicamente por jogadores brasileiros.[19][nota 2]
+<h1> Corinthians </h1>
 
-</p>
-<p>A Seleção Brasileira foi formada pela primeira vez em 21 de julho de 1914. Fez seu primeiro jogo contra o Exeter City, da Inglaterra, no campo do Fluminense Football Club, em 21 de julho daquele ano. O resultado da partida é disputado.[20] Algumas fontes afirmam que o Exeter perdeu por 2 a 0 para o Brasil,[21][22] com gols de Oswaldo Gomes e Osman, enquanto outras afirmam um empate de 3 a 3,[23][24] particularmente na mídia inglesa à época.[25] A equipe jogou ainda naquele ano em dois jogos contra a Seleção Argentina, sendo um amistoso em 20 de setembro e outro oficialmente, valendo a Copa Roca em 27 de setembro,[26] competição que visava a aproximar mais estes dois países. O Brasil venceu por 1 a 0 em Buenos Aires (gol de Rubens Salles), consagrando-se campeão do torneio,[27] sendo esse o primeiro de vários títulos conquistados pela seleção Canarinho.[28]
-
-</p>
-<p>O primeiro título relevante conquistado pela Seleção Brasileira foi o Campeonato Sul-Americano de 1919, atual Copa América,[29] com Friedenreich marcando o gol do título sobre o Uruguai, no Estádio das Laranjeiras construído pelo Fluminense para esta ocasião, já que o governo brasileiro não tinha o dinheiro para financiar este evento internacional. Em 1922, o Fluminense ampliou o seu estádio e a Seleção Brasileira conquistou o segundo título relevante de sua história, o bicampeonato do Sul Americano de Seleções.
-
-</p>
-<p>O Brasil é a única nação a ter se classificado para todas as edições da Copa do Mundo. Contudo, as participações iniciais do país estavam longe de serem bem sucedidas. Isso se deve à disputa interna do futebol brasileiro sobre o profissionalismo. Esse fato fez com que a Confederação Brasileira de Futebol fosse incapaz de convocar times com a força total. Em particular, disputas entre as federações estaduais de São Paulo e do Rio de Janeiro (as duas mais importantes da época) significavam que a seleção seria composta por jogadores vindos de apenas uma das federações.
-
-</p>
-
+    <p> O clube de futebol <em>Corinthians</em> classificou-se ontem para as quartas de finas da copa sul-americana.</p>
+<p> O jogo foi duro , o time rival NOB[Newels old Boys ] começou atacando muito a desfesa do time do Corinthians, dando muitos sustos aos torcedores pois achavam que iriam tomar um gol logo no inico da partida</p>
+    <h2> Mudanças???!!!</h2>
+<p>o tecnico luxemburgo viu que o time estava sofrendo muito na parte defensiva e por isso tirou wesley e colocou maycon de volante para ajudar a recompor a parte defensiva , tirou o yuri alberto e colocou romero na ponta esquerda dando mais velocidade à equipe do Corinthians </p>
+<p>Foi quando o time do  <strong>Corinthians  </strong> entrou melhor no jogo e conseguiu atacar e conseguir belos lances com romero e fauto vera </p>
+    <h3> fim de jogo </h3>
+    <p>O Corinthians acaba a partida empatando com o NOB e garante sua vaga nas quartas de finais da copa sul-americana, com a vantagem de 2x1 no jogo de ida aqui em são paulo na neo quimica arena , conseguiu segurar sua vantagem e classificar</p>
+    <img=
 </body>
 </html>
