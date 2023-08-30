@@ -19,8 +19,13 @@
 <p>Foi quando o time do  <strong>Corinthians  </strong> entrou melhor no jogo e conseguiu atacar e conseguir belos lances com romero e fauto vera </p>
     <h3> fim de jogo </h3>
     <p>O Corinthians acaba a partida empatando com o NOB e garante sua vaga nas quartas de finais da copa sul-americana, com a vantagem de 2x1 no jogo de ida aqui em são paulo na neo quimica arena , conseguiu segurar sua vantagem e classificar</p>
-    <img src="https://s2-ge.glbimg.com/P_UhHyNCIjr-KJi1Ddsy-ZiRz0E=/0x0:3786x2634/640x360/smart/https://i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2023/A/1/9RKS4zSBOIQxP3Ze8Zyw/rib2901.jpg
+    <img class= "imagem1" src="https://s2-ge.glbimg.com/P_UhHyNCIjr-KJi1Ddsy-ZiRz0E=/0x0:3786x2634/640x360/smart/https://i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2023/A/1/9RKS4zSBOIQxP3Ze8Zyw/rib2901.jpg
     " alt="">
-    
+    <ul>
+        <h2>Melhores em Campo</h2>
+        <li>Yuri Alberto</li>
+        <li>Roger Guedes</li>
+        <li>Renato Augusto</li>
+    </ul>
 </body>
 </html>
